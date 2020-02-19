@@ -5,7 +5,7 @@ Template for a simple Vaadin application that only requires a Servlet 3.0 contai
 
 
 Workflow
-========
+==============
 
 To compile the entire project, run "mvn install".
 
@@ -50,3 +50,4 @@ Using Vaadin pre-releases
 
 If Vaadin pre-releases are not enabled by default, use the Maven parameter
 "-P vaadin-prerelease" or change the activation default value of the profile in pom.xml .
+
